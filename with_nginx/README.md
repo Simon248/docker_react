@@ -1,2 +1,3 @@
-on image for building.
-  build is taken by nginx image to serve
+on image for building. 
+
+build is taken by nginx image to serve
